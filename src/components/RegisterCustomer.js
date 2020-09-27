@@ -77,7 +77,7 @@ class RegisterCustomer extends Component {
                     <input type="text"
                      name = "customerId" 
                     onChange = {this.handleChange}
-                    placeholder="ravish"
+                    placeholder="Shubham"
                     className="form-control"
                     />
                     </div>
