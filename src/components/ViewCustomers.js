@@ -58,4 +58,4 @@ class ViewCustomers extends Component {
     }
 }
 
-export default ViewCustomers;y
+export default ViewCustomers;
